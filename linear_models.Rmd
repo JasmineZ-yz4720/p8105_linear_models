@@ -1,0 +1,14 @@
+---
+title: "linear_models"
+author: "Jasmine Zhang"
+date: "2023-11-9"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+
+set.seed(1)
+```
+
